@@ -1,0 +1,39 @@
+#home{
+	margin-top: 100px;
+	width: 670px;
+	height: 350px;
+}
+#home2{
+	margin-top: 325px;
+	width: 600px;
+	height: 500px;
+}
+
+#home3{
+	margin-top: 200px;
+	width: 670px;
+	height: 350px;
+}
+
+#latestnews{
+	width: 450px;
+	height: 450px;
+}
+
+.button2 {
+  background-color: grey; 
+  color: black; 
+  border: 2px solid grey;
+}
+
+.button2:hover {
+  background-color: grey;
+  color: white;
+}
+
+.button2 {border-radius: 4px;}
+
+#Community{
+	background-color: #008CBA;
+
+}
